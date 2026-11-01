@@ -28,4 +28,23 @@ performance,compare product categories, and identify areas that may require mana
 
 ### Dashboard Sketch
 
-![Dashboard Sketch](dashboard-sketch.png)
+![Dashboard Sketch](https://github.com/Richard23-alt/Business_performance_and_sales_trends_analysis/blob/f42a8cced304f2f120bef47b024cde5eefef7c27/Screenshot%20(31).png)
+
+
+# Analysis
+
+Heres how i approached the project:
+
+- First started off by ensuring the dataset was clean and had no missing values to achieve this i had to go through each column to understand what was the information contained afterwards it was uploaded to Excel powerquery for few changes
+- Then the data was loaded into Excel sheet as a pivot table
+- afterwards i started looking into each metrics ( important ones) in which i had to make connection to power pivot, where i began creating Dax measures
+
+
+
+
+
+
+
+
+
+
