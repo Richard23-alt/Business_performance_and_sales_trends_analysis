@@ -39,6 +39,32 @@ Heres how i approached the project:
 - Then the data was loaded into Excel sheet as a pivot table
 - afterwards i started looking into each metrics ( important ones) in which i had to make connection to power pivot, where i began creating Dax measures
 
+## Observations 
+- Total revenue across the three year period was $1,264,762, which provided a baseline for evaluating future sales performance and setting
+revenue targets.
+- Revenue declined by approximatly -58.04% between 2023 and 2025, item printer appeared to have the highest generating revenue in 2023 of
+about $95,154 followed by item desk which showed stability overall revenue decline , appromiximately -22.46% between 2023 and 2025 compared to others, while the largest decline occured with item chair which was a decline of approximately -73.46%
+- Estimated annual revenue per customer was approximately $351.21 and a life-time-value of $1,054 . this indicates need to invest more
+refrerence advert , instagram advert which previously yeided about 21.58% of purchasing customers
+- product quantities also declined across our seven products(chair, desk,laptop,monitor,phone,printer,tablet) affecting revenue however aftter closer in dive the issue wasnt customser purchasing power. this decline was due to about 20.23% of items cancelled,20.93% where returned and 21.63% pending, this leaving about 19.53% item actually shipped to customsers.
+- analysis identified 1,200 unique customer across the observation period . this baseline presents opportunity for targeted retention,reactivation and cross-selling campaigns to enable fight reduction in purchasing activity.
+
+## Recommendations
+- Examine changes in customer purchasing activity by segmenting customers into new,active, active and repeat groups. this will better help reactivation campaigns for inactive and unhappy customers while rewarding loyalty to returning customers
+- Improve delivery system and product quality to tackle issues of returned and cancelled items, i highly recommend a customser compliant site to improve business performance.
+
+### Conclusion
+this project demonstrates how Excel can transform raw sales data into meaningful business insights. it revealed declining revenue and product demand,identified performance trends which provided an informed business decisions and improved sales strategies. 
+
+
+## How to Download and Use
+
+1. Download `my-dashboard.xlsx`.
+2. Open the workbook using Microsoft Excel.
+3. Navigate to the dashboard worksheet.
+4. Use the available filters and slicers to explore the results.
+
+[Download the Excel Dashboard](your-dashboard.xlsx)
 
 
 
