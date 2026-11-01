@@ -23,4 +23,9 @@ performance,compare product categories, and identify areas that may require mana
 
 ### Source Data
 
-![Source Data](data.png)
+![Source Data](https://github.com/Richard23-alt/Business_performance_and_sales_trends_analysis/blob/f611307b4483512c53e37692f021da4986ef4e05/Dataset%20for%20Data%20Analytics.xlsx)
+
+
+### Dashboard Sketch
+
+![Dashboard Sketch](dashboard-sketch.png)
