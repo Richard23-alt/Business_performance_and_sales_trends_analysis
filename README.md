@@ -13,6 +13,12 @@ This project uses microsft excel tool to analyse this business dataset sales it 
 orderstatus distrubtion, and customser revenue and life-time-value mertic.users can explore dashboard to understand changes in business 
 performance,compare product categories, and identify areas that may require management attention.
 
+### Tools used
+- Microsoft Excel
+- Power Query
+- PivotTables & PivotCharts
+- Excel Formulas
+- Dax Measures
 ### Key areas of analysis
 - Yearly revenue performance
 - Product quantity comparison
@@ -64,7 +70,7 @@ this project demonstrates how Excel can transform raw sales data into meaningful
 3. Navigate to the dashboard worksheet.
 4. Use the available filters and slicers to explore the results.
 
-[Download the Excel Dashboard](your-dashboard.xlsx)
+[Download the Excel Dashboard](https://github.com/Richard23-alt/Business_performance_and_sales_trends_analysis/blob/1a4003a05c46ae6b2374d1d21de37d5b8bfac19f/Internship%20project.xlsx)
 
 
 
